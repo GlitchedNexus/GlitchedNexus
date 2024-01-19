@@ -1,4 +1,4 @@
-Hi, I’m @GlitchedNexus. 
+Hi, I’m @GlitchedNexus (A.K.A. Raghav Awasthi). 
 
 I believe that technology is the only thing that can change the world
 and it is my ambition ot help unlock the outer limits of our existance. 
