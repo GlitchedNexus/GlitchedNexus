@@ -1,7 +1,12 @@
-Hello, I'm @GlitchedNexus, also known as Raghav Awasthi.
+I’m Raghav, or Glitched Nexus as some of you may know me.
 
-I hold the conviction that technology is the pivotal force capable of transforming our world, and it's my goal to explore the furthest reaches of our existence through it.
+I hold the conviction that technology is the pivotal force capable of transforming our world, 
+and it's my goal to help push humanity to our full potential. I love distributed systems, 
+artificial intelligence and pretty UI.
 
-My current focus is on an ambitious endeavor aimed at converting the intricate aspects of human consciousness into a form understandable by computers. This project, coupled with my intense fascination with the enigmas surrounding life beyond Earth and its unique biochemistry, underscores my dedication to advancing the frontiers of science and technology. I am passionate about innovation and consistently seek opportunities to deploy my abilities in projects that are both challenging and impactful.
+I have always been fascinated by science-fiction and hope to one day help develop technology 
+that lets us integrate machines into our biology. I am also enthralled by drones and their 
+versatility which makes them useful in all areas of society. I’m particularly 
+interested in using drone clusters for mapping geography and data acquisition.
 
-I am open and encouraging to anyone driven by a similar vision and eager to contribute to this transformative journey.
+Also, I love cute and fluffy stuff.
