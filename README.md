@@ -1,4 +1,4 @@
-I’m Raghav, or Glitched Nexus as some of you may know me.
+I’m Raghav, or @GlitchedNexus as some of you may know me.
 
 I hold the conviction that technology is the pivotal force capable of transforming our world, 
 and it's my goal to help push humanity to our full potential. I love distributed systems, 
